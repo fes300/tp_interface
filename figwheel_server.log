@@ -1,187 +1,125 @@
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/tiplan-interface/core.cljs
+Reading analysis cache for jar:file:/home/fede/.m2/repository/org/omcljs/om/1.0.0-alpha34/om-1.0.0-alpha34.jar!/om/util.cljc
+Reading analysis cache for jar:file:/home/fede/.m2/repository/org/omcljs/om/1.0.0-alpha34/om-1.0.0-alpha34.jar!/om/dom.cljs
+Reading analysis cache for jar:file:/home/fede/.m2/repository/org/omcljs/om/1.0.0-alpha34/om-1.0.0-alpha34.jar!/om/next/cache.cljs
+Reading analysis cache for jar:file:/home/fede/.m2/repository/org/clojure/clojurescript/1.7.170/clojurescript-1.7.170.jar!/clojure/zip.cljs
+Reading analysis cache for jar:file:/home/fede/.m2/repository/org/omcljs/om/1.0.0-alpha34/om-1.0.0-alpha34.jar!/om/next/impl/parser.cljc
+Reading analysis cache for jar:file:/home/fede/.m2/repository/org/omcljs/om/1.0.0-alpha34/om-1.0.0-alpha34.jar!/om/next/protocols.cljc
+Reading analysis cache for jar:file:/home/fede/.m2/repository/org/omcljs/om/1.0.0-alpha34/om-1.0.0-alpha34.jar!/om/tempid.cljc
+Reading analysis cache for jar:file:/home/fede/.m2/repository/org/clojure/clojurescript/1.7.170/clojurescript-1.7.170.jar!/clojure/walk.cljs
+Reading analysis cache for jar:file:/home/fede/.m2/repository/com/cognitect/transit-cljs/0.8.237/transit-cljs-0.8.237.jar!/cognitect/transit.cljs
+Reading analysis cache for jar:file:/home/fede/.m2/repository/org/omcljs/om/1.0.0-alpha34/om-1.0.0-alpha34.jar!/om/transit.cljc
+Reading analysis cache for jar:file:/home/fede/.m2/repository/org/omcljs/om/1.0.0-alpha34/om-1.0.0-alpha34.jar!/om/next.cljs
 notifying browser that file changed:  resources/public/js/goog/deps.js
 notifying browser that file changed:  resources/public/js/cljs_deps.js
 notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.346 seconds.[0m
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.044 seconds.[0m
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.155 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/tiplan-interface/core.cljs
 notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.213 seconds.[0m
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.391 seconds.[0m
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.218 seconds.[0m
+Compiling src/tiplan-interface/core.cljs
+WARNING: Use of undeclared Var list-example.core/read at line 73 src/tiplan-interface/core.cljs
+WARNING: Use of undeclared Var list-example.core/mutate at line 73 src/tiplan-interface/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/list_example/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.363 seconds.[0m
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.209 seconds.[0m
+Compiling src/tiplan-interface/core.cljs
+WARNING: Use of undeclared Var list-example.core/read at line 73 src/tiplan-interface/core.cljs
+WARNING: Use of undeclared Var list-example.core/mutate at line 73 src/tiplan-interface/core.cljs
+notifying browser that file changed:  out/list_example/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.339 seconds.[0m
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.199 seconds.[0m
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.19 seconds.[0m
-[0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.188 seconds.[0m
-[0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.205 seconds.[0m
-[0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.186 seconds.[0m
-[0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.204 seconds.[0m
-[0mCompiling "resources/public/js/main.js" from ["src"]...
-[31mCompiling "resources/public/js/main.js" failed.
-[0mclojure.lang.ExceptionInfo: Unmatched delimiter )
- at clojure.core$ex_info.invoke (core.clj:4593)
-    clojure.tools.reader.reader_types$reader_error.doInvoke (reader_types.clj:331)
-    clojure.lang.RestFn.invoke (RestFn.java:439)
-    clojure.tools.reader$read_unmatched_delimiter.invoke (reader.clj:76)
-    clojure.tools.reader$read_STAR_.invoke (reader.clj:889)
-    clojure.tools.reader$read.invoke (reader.clj:938)
-    cljs.analyzer$forms_seq_STAR_$forms_seq___2112$fn__2113$fn__2114.invoke (analyzer.cljc:2626)
-    cljs.analyzer$forms_seq_STAR_$forms_seq___2112$fn__2113.invoke (analyzer.cljc:2619)
-    clojure.lang.LazySeq.sval (LazySeq.java:40)
-    clojure.lang.LazySeq.seq (LazySeq.java:49)
-    clojure.lang.RT.seq (RT.java:507)
-    clojure.core/seq (core.clj:137)
-    cljs.analyzer$parse_ns$fn__2128.invoke (analyzer.cljc:2702)
-    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2682)
-    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2673)
-    cljs.compiler$find_source.invoke (compiler.cljc:1389)
-    clojure.core$map$fn__4553.invoke (core.clj:2624)
-    clojure.lang.LazySeq.sval (LazySeq.java:40)
-    clojure.lang.LazySeq.seq (LazySeq.java:56)
-    clojure.lang.Cons.next (Cons.java:39)
-    clojure.lang.RT.next (RT.java:674)
-    clojure.core/next (core.clj:64)
-    clojure.core$reduce1.invoke (core.clj:909)
-    clojure.core$set.invoke (core.clj:3960)
-    cljs.closure$add_dependency_sources.invoke (closure.clj:731)
-    cljs.closure$build.invoke (closure.clj:1807)
-    cljs.build.api$build.invoke (api.clj:207)
-    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
-    figwheel_sidecar.build_middleware.injection$hook$fn__15887.invoke (injection.clj:139)
-    figwheel_sidecar.build_middleware.notifications$hook$fn__16214.invoke (notifications.clj:187)
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.037 seconds.[0m
-[0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.201 seconds.[0m
-[0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Compiling src/tiplan_interface/list_example/core.cljs
 notifying browser that file changed:  resources/public/js/goog/deps.js
 notifying browser that file changed:  resources/public/js/cljs_deps.js
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.423 seconds.[0m
+notifying browser that file changed:  out/list_example/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.49 seconds.[0m
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
+Compiling src/tiplan_interface/core.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 5 src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var om/add-root! at line 5 src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var tiplan-interface.core/reconciler at line 5 src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var tiplan-interface.core/RootView at line 6 src/tiplan_interface/core.cljs
+WARNING: No such namespace: gdom, could not locate gdom.cljs, gdom.cljc, or Closure namespace "" at line 6 src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var gdom/getElement at line 6 src/tiplan_interface/core.cljs
 Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.239 seconds.[0m
+Reading analysis cache for file:/home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+notifying browser that file changed:  out/tiplan_interface/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.28 seconds.[0m
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
+Compiling src/tiplan_interface/list_example/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/list_example/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.329 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 7 /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var om/add-root! at line 7 /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var tiplan-interface.core/reconciler at line 7 /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+WARNING: No such namespace: gdom, could not locate gdom.cljs, gdom.cljc, or Closure namespace "" at line 8 /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var gdom/getElement at line 8 /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
 Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.242 seconds.[0m
+Reading analysis cache for file:/home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/tiplan_interface/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.236 seconds.[0m
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
+Compiling /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+WARNING: No such namespace: om, could not locate om.cljs, om.cljc, or Closure namespace "" at line 7 /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var om/add-root! at line 7 /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var tiplan-interface.core/reconciler at line 7 /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+WARNING: No such namespace: gdom, could not locate gdom.cljs, gdom.cljc, or Closure namespace "" at line 8 /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var gdom/getElement at line 8 /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
 Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.258 seconds.[0m
+Reading analysis cache for file:/home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+notifying browser that file changed:  out/tiplan_interface/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.203 seconds.[0m
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
+Compiling src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var tiplan-interface.core/reconciler at line 8 src/tiplan_interface/core.cljs
+WARNING: No such namespace: gdom, could not locate gdom.cljs, gdom.cljc, or Closure namespace "" at line 9 src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var gdom/getElement at line 9 src/tiplan_interface/core.cljs
 Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.428 seconds.[0m
+Reading analysis cache for file:/home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/tiplan_interface/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.211 seconds.[0m
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
+Compiling src/tiplan_interface/list_example/core.cljs
+Compiling src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var tiplan-interface.core/reconciler at line 8 src/tiplan_interface/core.cljs
+WARNING: No such namespace: gdom, could not locate gdom.cljs, gdom.cljc, or Closure namespace "" at line 9 src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var gdom/getElement at line 9 src/tiplan_interface/core.cljs
 Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.256 seconds.[0m
+Reading analysis cache for file:/home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/list_example/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.378 seconds.[0m
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
+Compiling /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+WARNING: Use of undeclared Var tiplan-interface.core/reconciler at line 9 /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
 Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.25 seconds.[0m
+Reading analysis cache for file:/home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/tiplan_interface/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.228 seconds.[0m
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
+Compiling /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
 Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.279 seconds.[0m
+Reading analysis cache for file:/home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+notifying browser that file changed:  out/tiplan_interface/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.157 seconds.[0m
 [0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
+Compiling src/tiplan_interface/list_example/reconciler/core.cljs
+Compiling /home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
 Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.164 seconds.[0m
-[0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.151 seconds.[0m
-[0mCompiling "resources/public/js/main.js" from ["src"]...
-[31mCompiling "resources/public/js/main.js" failed.
-[0mjava.lang.AssertionError: No ns form found in src/om_tutorial/core.cljs
- at cljs.analyzer$parse_ns$fn__2128.invoke (analyzer.cljc:2731)
-    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2682)
-    cljs.analyzer$parse_ns.invoke (analyzer.cljc:2673)
-    cljs.compiler$find_source.invoke (compiler.cljc:1389)
-    clojure.core$map$fn__4553.invoke (core.clj:2624)
-    clojure.lang.LazySeq.sval (LazySeq.java:40)
-    clojure.lang.LazySeq.seq (LazySeq.java:56)
-    clojure.lang.Cons.next (Cons.java:39)
-    clojure.lang.RT.next (RT.java:674)
-    clojure.core/next (core.clj:64)
-    clojure.core$reduce1.invoke (core.clj:909)
-    clojure.core$set.invoke (core.clj:3960)
-    cljs.closure$add_dependency_sources.invoke (closure.clj:731)
-    cljs.closure$build.invoke (closure.clj:1807)
-    cljs.build.api$build.invoke (api.clj:207)
-    figwheel_sidecar.components.cljs_autobuild$cljs_build.invoke (cljs_autobuild.clj:22)
-    figwheel_sidecar.build_middleware.injection$hook$fn__15887.invoke (injection.clj:139)
-    figwheel_sidecar.build_middleware.notifications$hook$fn__16214.invoke (notifications.clj:187)
-    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__16290.invoke (clj_reloading.clj:115)
-    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__16336.invoke (javascript_reloading.clj:60)
-    figwheel_sidecar.components.cljs_autobuild$eval16351$figwheel_start_and_end_messages__16354$fn__16356.invoke (cljs_autobuild.clj:45)
-    figwheel_sidecar.components.cljs_autobuild.CLJSAutobuild$fn__16381$fn__16382.invoke (cljs_autobuild.clj:137)
-    figwheel_sidecar.utils$sync_exec$fn__12263$fn__12264.invoke (utils.clj:13)
-    figwheel_sidecar.utils$sync_exec$fn__12263.invoke (utils.clj:12)
-    clojure.core$binding_conveyor_fn$fn__4444.invoke (core.clj:1919)
-    clojure.lang.AFn.applyToHelper (AFn.java:154)
-    clojure.lang.RestFn.applyTo (RestFn.java:132)
-    clojure.lang.Agent$Action.doRun (Agent.java:114)
-    clojure.lang.Agent$Action.run (Agent.java:163)
-    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1149)
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.053 seconds.[0m
-[0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.409 seconds.[0m
-[0mCompiling "resources/public/js/main.js" from ["src"]...
-Compiling /home/fede/smallProjects/om-tutorial/src/om_tutorial/core.cljs
-Compiling target/figwheel_temp/dev/figwheel/connect.cljs
-notifying browser that file changed:  out/om_tutorial/core.js
-[32mSuccessfully compiled "resources/public/js/main.js" in 0.413 seconds.[0m
+Reading analysis cache for file:/home/fede/smallProjects/om-tutorial/src/tiplan_interface/core.cljs
+notifying browser that file changed:  out/list_example/reconciler.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.165 seconds.[0m
